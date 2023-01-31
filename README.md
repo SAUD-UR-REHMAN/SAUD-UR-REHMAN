@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**SAUD-UR-REHMAN/SAUD-UR-REHMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hy! This is _Muhammad-Saud-Ur-Rehman_
+
 1. #### -🔭 I'm a student of Computer Science.
 2. #### -🌱 Working as a Python Developer as well.
 3. #### -✨ Also interested in Data Science.
