@@ -6,6 +6,7 @@
 4. #### -⚡ Interested in developing The links to polish the skill.
 5. #### -👯 Hungry to develop and learn new skills.
 6. #### -📫 You can reach to me here: 
-            - linkdin ( linkedin.com/in/saud-rehman-a2a7321b4 )
-            - Github ()
+            - [linkdin](linkedin.com/in/saud-rehman-a2a7321b4)
+            - [Github](@SAUD-UR-REHMAN)
+            - [Twiter](Saud_Rehman_097)
 
